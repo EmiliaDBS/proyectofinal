@@ -1,0 +1,45 @@
+body{
+    background: #fff;
+    margin: 0px;
+    
+}
+
+h1{font-family: 'League Spartan', sans-serif;}
+h2{font-family: 'League Gothic', sans-serif;}
+h3{font-family: 'League Gothic', sans-serif;}
+
+#logo-header{
+    background-color: #f39200;
+}
+
+#logo-header img{
+    width: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.menu-prinicipal{
+    font-family: 'League Gothic', sans-serif;
+    font-size: 20px;
+}
+
+ul{    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F39200;
+
+}
+
+li a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #f8c578;
+  }
